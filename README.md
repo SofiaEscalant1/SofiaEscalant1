@@ -1,5 +1,4 @@
-![Aditya Vikram Singh Banner](<img width="1584" height="396" alt="PORTADA LINKEDIN" src="https://github.com/user-attachments/assets/2530def9-4d57-416b-8165-0e169df2aad3" />
-)
+![Aditya Vikram Singh Banner](https://github.com/user-attachments/assets/2530def9-4d57-416b-8165-0e169df2aad3)
 
 <img alt="Night Coding" src="C:\Users\arace\OneDrive\Desktop\cv\assets" width='40' align="left"/><h2>Hola! Soy Sofia</h2>
 
@@ -50,8 +49,3 @@
 <a href="https://www.linkedin.com/in/araceli-sofia-m-30b84b222/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="[mailto:avsingh@umass.edu](https://mail.google.com/mail/u/1/#inbox/FMfcgzQgKvMgbRzRnsnpDSKlnrHlFChQ)"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="[https://instagram.com/adityavs_](https://www.instagram.com/sofib312_/)"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
