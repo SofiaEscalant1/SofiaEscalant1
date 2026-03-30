@@ -1,6 +1,6 @@
 ![Aditya Vikram Singh Banner](https://github.com/user-attachments/assets/789af00a-1098-47d0-8afd-abc16df26296)
 
-<span style="font-size: 45px;">👋</span><h2>¡Hola, soy Sofía!</h2>
+<span style="font-size: 45px;">👋</span><h2>👋¡Hola, soy Sofía!</h2>
 
 <!-- ## 👋 &nbsp;Hola! Soy Sofia -->
 
