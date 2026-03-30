@@ -1,7 +1,6 @@
 ![Aditya Vikram Singh Banner](https://github.com/user-attachments/assets/789af00a-1098-47d0-8afd-abc16df26296)
 
-
-<img alt="Night Coding" src="fas fa-hand-peace greeting-icon" width='40' align="left"/><h2>¡Hola, soy Sofía!</h2>
+<i class="fas fa-hand-spock greeting-icon"></i><h2>¡Hola, soy Sofía!</h2>
 
 <!-- ## 👋 &nbsp;Hola! Soy Sofia -->
 
