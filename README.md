@@ -1,6 +1,7 @@
-![Aditya Vikram Singh Banner](https://github.com/user-attachments/assets/2530def9-4d57-416b-8165-0e169df2aad3)
+![Aditya Vikram Singh Banner](https://github.com/user-attachments/assets/789af00a-1098-47d0-8afd-abc16df26296)
 
-<img alt="Night Coding" src="C:\Users\arace\OneDrive\Desktop\cv\assets" width='40' align="left"/><h2>Hola! Soy Sofia</h2>
+
+<img alt="Night Coding" src="https://github.com/user-attachments/assets/789af00a-1098-47d0-8afd-abc16df26296" width='40' align="left"/><h2>¡Hola! Soy Sofia</h2>
 
 <!-- ## 👋 &nbsp;Hola! Soy Sofia -->
 
