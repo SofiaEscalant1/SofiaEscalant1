@@ -32,20 +32,20 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Análisis
 
 <p align="center">
 <a href="https://github.com/SofiaEscalant1">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SofiaEscalant1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SofiaEscalant1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contacto
 
 <p align="center">
 <a href="https://sofiaescalant1.github.io/PORTAFOLIO/<img width="423" height="23" alt="image" src="https://github.com/user-attachments/assets/c64d628b-6043-48ca-a725-12e2448bfa49" />
 "><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/araceli-sofia-m-30b84b222/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="[mailto:avsingh@umass.edu](https://mail.google.com/mail/u/1/#inbox/FMfcgzQgKvMgbRzRnsnpDSKlnrHlFChQ)"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="[https://instagram.com/adityavs_](https://www.instagram.com/sofib312_/)"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="[aracelysofiaperu@gmail.com](https://mail.google.com/mail/u/1/#inbox/FMfcgzQgKvMgbRzRnsnpDSKlnrHlFChQ)"><img src="https://img.shields.io/badge/-aracelysofiaperu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="[https://instagram.com/sofib312_](https://www.instagram.com/sofib312_/)"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
