@@ -42,7 +42,7 @@
 ### 🤝🏻 &nbsp;Contacto
 
 <p align="center">
-<a href="https://sofiaescalant1.github.io/PORTAFOLIO/"><img width="423" height="23" alt="image" src="https://github.com/user-attachments/assets/c64d628b-6043-48ca-a725-12e2448bfa49"><img src="https://img.shields.io/badge/-SofiaEscalant1-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://sofiaescalant1.github.io/PORTAFOLIO/"><img width="423" height="23" alt="image" src="https://github.com/user-attachments/assets/c64d628b-6043-48ca-a725-12e2448bfa49"><img src="https://img.shields.io/badge/-sofiaescalant1-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/araceli-sofia-m-30b84b222/"><img src="https://img.shields.io/badge/-Araceli%20Sofia%20Macedo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/u/1/#inbox/FMfcgzQgKvMgbRzRnsnpDSKlnrHlFChQ"><img src="https://img.shields.io/badge/-aracelysofiaperu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/sofib312_"><img src="https://img.shields.io/badge/-sofib312__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
