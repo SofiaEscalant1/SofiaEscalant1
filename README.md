@@ -12,7 +12,7 @@
 ✍️ &nbsp;En mi tiempo libre, me dedico a la redacción de propuestas tecnológicas de negocio con impacto social real y análisis de casos de negocio.\
 💬 &nbsp;Contáctame para consultoría, voluntariado o simplemente para intercambiar puntos de vista y perspectivas.\
 ✉️ &nbsp;Puedes escribirme a aracelysofiaperu@gmail.com te responderé lo más pronto posible..\
-📄 &nbsp;Consulta mi currículum en https://cv-ten-lyart-22.vercel.app/ para obtener más información sobre mí. ¡Estoy abierto a comentarios y sugerencias!
+📄 &nbsp;Consulta mi currículum en https://cv-ten-lyart-22.vercel.app/ para obtener más información sobre mí. ¡Estoy abierta a comentarios y sugerencias!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -34,10 +34,9 @@
 ### ⚙️ &nbsp;GitHub Análisis
 
 <p align="center">
-<a href="https://github.com/SofiaEscalant1">
+<a href="https://github.com/SofiaEscalant1"></a>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SofiaEscalant1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SofiaEscalant1&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
 
 ### 🤝🏻 &nbsp;Contacto
